@@ -1,1 +1,1 @@
-Write-Host "The Kansas City Chiefs are your 2023 World Champions!"
+Write-Host "The Kansas City Chiefs are back to back world Champions! Can they secure the three-peat?!"
