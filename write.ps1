@@ -1,1 +1,1 @@
-Write-Host "The Kansas City Chiefs are back to back world Champions! Can they secure the three-peat?!"
+Write-Host "How many Crayons can a Marine Crayon down if a Marine could Crayon down Crayons?!"
